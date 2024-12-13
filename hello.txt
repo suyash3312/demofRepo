@@ -5,3 +5,4 @@ L2 inserted in remote
 L1 inserted local
 google
 microsoft
+windows
